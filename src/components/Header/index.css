@@ -1,0 +1,9 @@
+/* Write your CSS code here */
+.tabs-container {
+  display: flex;
+  justify-content: center;
+}
+.item {
+  margin-left: 15px;
+  list-style-type: none;
+}
